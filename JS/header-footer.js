@@ -1,5 +1,4 @@
-document.querySelector("#navbar").innerHTML = 
-`
+document.querySelector("#navbar").innerHTML = `
 <div class="container-fluid textSet">
     <a class="navbar-brand" href="#">
         <img src="/Images/logo.jpeg" alt="Bootstrap" height="30">
@@ -13,11 +12,7 @@ document.querySelector("#navbar").innerHTML =
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mb-2 mb-lg-0">
             <li class="nav-item nav-link-effect setUl">
-<<<<<<< HEAD
                 <a id="home-option" class="nav-link nav-effect" href="/HTML/home.html">Home</a>
-=======
-                <a id="home-option" class="nav-link nav-effect" href="index.html">Home</a>
->>>>>>> d54e1b57ef6be3dd19db0f18f7bb997c8de4acc3
             </li>
             
             <li class="nav-item nav-link-effect setUl">
@@ -48,8 +43,7 @@ document.querySelector("#navbar").innerHTML =
 
     </div>
 </div>`;
-    
-    
+
 document.querySelector("#contact").innerHTML = `
 <div class="row justify-content-center w-100 text-center pt-5 pb-3">
 <div class="col col-lg-2">
@@ -101,4 +95,3 @@ document.querySelector("#contact").innerHTML = `
 Brown Love | Thank You
 </div>
 `;
-
