@@ -10,8 +10,8 @@
 }
 
 .modal-content,.modal input,.modal select{
-  background-color: var(--theme-l-brown);
-  color: var(--theme-brown);
+  background-color: var(--theme-l-brown) !important;
+  color: var(--theme-brown) !important;
 }
 
 select{
@@ -20,15 +20,15 @@ select{
 }
 
 .modal-header{
-  border-bottom-color:var(--theme-brown) ;
+  border-bottom-color:var(--theme-brown) !important;
 }
 
 .modal-footer{
-  border-top-color:var(--theme-brown);
+  border-top-color:var(--theme-brown) !important;
 }
 
 .modal input,.modal select{
-  border: 1px solid var(--theme-brown);
+  border: 1px solid var(--theme-brown) !important;
 }
 .modal input{
   border:none !important; 
@@ -47,11 +47,11 @@ option .disabled,select{
 .modal input:focus{
   box-shadow: none;
   background-color: transparent !important;
-  border: 1px solid var(--theme-brown);
-  caret-color: var(--theme-brown);
-  color: var(--theme-brown);
+  border: 1px solid var(--theme-brown) !important;
+  caret-color: var(--theme-brown) !important;
+  color: var(--theme-brown) !important;
   font-size: 0.9rem;
-  box-shadow: 0 1px 1px 0 var(--theme-brown);
+  box-shadow: 0 1px 1px 0 var(--theme-brown) !important;
 
 }
 
@@ -88,8 +88,8 @@ option .disabled,select{
   border-radius: 10px;
   margin-top: auto;
   margin-bottom: 0.5rem;
-  position: absolute;
-  width: max-content;
+  /* position: absolute;
+  width: max-content; */
 }
 
 #total,
@@ -142,11 +142,11 @@ span,
 
 /**Card properties  */
 .bg-brown {
-  background-color: var(--theme-l-brown);
+  background-color: var(--theme-l-brown) !important;
 }
 
 .card {
-  background-color: var(--theme-l-brown);
+  background-color: var(--theme-l-brown) !important;
 }
 
 .card-footer {

@@ -9,7 +9,7 @@
 
 /** Global changes  */
 body {
-  background-color: #ffeccf;
+  background-color: #ffeccf !important;
 }
 
 *{
