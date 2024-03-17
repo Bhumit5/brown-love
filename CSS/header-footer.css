@@ -1,7 +1,7 @@
 /** Useful Variable  */
 :root {
   --theme-brown: #672b00;
-  --theme-l-brown: #f8cc80e9;
+  --theme-l-brown: #f8c163e9;
   --theme-text: "Libre Baskerville", serif;
   --theme-b-text: "Pacifico", cursive;
   --gradient : linear-gradient(0deg,rgba(42, 32, 32, 0.773),rgba(42, 32, 32, 0.773));

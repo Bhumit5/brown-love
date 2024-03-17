@@ -28,7 +28,7 @@ document.querySelector("#navbar").innerHTML = `
             </li>
             
             <li class="nav-item nav-link-effect setUl">
-            <a id="about-option" class="nav-link nav-effect" href="/HTML/about.html">Brown Love</a>
+            <a id="about-option" class="nav-link nav-effect" href="/HTML/about.html">Cafe Bar</a>
             </li>
         </ul>
 
@@ -92,6 +92,6 @@ document.querySelector("#contact").innerHTML = `
 </div>
 </div>
 <div id="greet" class="text-center">
-Brown Love | Thank You
+Cafe Bar | Thank You
 </div>
 `;

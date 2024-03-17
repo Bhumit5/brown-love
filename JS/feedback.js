@@ -16,15 +16,15 @@ function showFeedback(arr) {
 }
 
 let feedback = [
-  "I love the cozy atmosphere and delicious coffee at Brown Love Cafe! The staff is always friendly and welcoming, making it a great place to relax and catch up with friends.",
+  "I love the cozy atmosphere and delicious coffee at Cafe Bar! The staff is always friendly and welcoming, making it a great place to relax and catch up with friends.",
 
-  "Brown Love Cafe has quickly become my go-to spot for coffee and pastries. The quality of the products and the excellent customer service keep me coming back time and time again.",
+  "Cafe Bar has quickly become my go-to spot for coffee and pastries. The quality of the products and the excellent customer service keep me coming back time and time again.",
 
-  "I recently hosted an event at Brown Love Cafe and was blown away by the attention to detail and personalized service. The team went above and beyond to make our gathering a success, and the decorations and catering were absolutely perfect.",
+  "I recently hosted an event at Cafe Bar and was blown away by the attention to detail and personalized service. The team went above and beyond to make our gathering a success, and the decorations and catering were absolutely perfect.",
 
-  "The coffee at Brown Love Cafe is simply the best. I appreciate the attention to detail and the care that goes into every cup. It's clear that the staff is passionate about their craft and committed to providing a top-notch experience for their customers.",
+  "The coffee at Cafe Bar is simply the best. I appreciate the attention to detail and the care that goes into every cup. It's clear that the staff is passionate about their craft and committed to providing a top-notch experience for their customers.",
 
-  "I can't say enough good things about Brown Love Cafe. From the friendly staff to the delicious food and beverages, it's clear that this is a business that truly cares about its customers. I always leave feeling happy and satisfied.",
+  "I can't say enough good things about Cafe Bar. From the friendly staff to the delicious food and beverages, it's clear that this is a business that truly cares about its customers. I always leave feeling happy and satisfied.",
 ];
 for (let response of feedback) {
   showFeedback(response);

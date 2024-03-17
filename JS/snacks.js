@@ -1,12 +1,12 @@
 let pizza = [
     {
-        img:"/Images/snacks/margherita.png",
         name: "Margherita Pizza",
         regular: 99,
         medium: 249,
         large: 399
     },
     {
+        img:"../Images/snacks/",
         name: "Achari Do Pyaza Pizza",
         regular: 169,
         medium: 309,

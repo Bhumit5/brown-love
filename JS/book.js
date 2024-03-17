@@ -1,6 +1,6 @@
-const fourTable = "https://drive.google.com/uc?id=1ei4XYzvz0SuUhEKeiILWfFo5nfq00fVC";
-const sixTable = "https://drive.google.com/uc?id=1V_N4-p18kObIChBtebHCNwulndVkA9Gd";
-const eightTable = "https://drive.google.com/uc?id=1TwyXMEtjibyWxIbFPZJAjwLQD74gI_yA";
+const fourTable = "../Images/4-people.jpg";
+const sixTable = "../Images/6-people.jpg";
+const eightTable = "../Images/8-people.png";
 
 for (let i = 1; i <= 6; i++) {
     if (i % 2 == 0) {
